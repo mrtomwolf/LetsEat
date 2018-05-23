@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=copper": { "model": "letseat:leaves_copper" },
+        "check_decay=true,decayable=false,variant=copper": { "model": "letseat:leaves_copper" },
+        "check_decay=false,decayable=true,variant=copper": { "model": "letseat:leaves_copper" },
+        "check_decay=false,decayable=false,variant=copper": { "model": "letseat:leaves_copper" },
+        
+        "check_decay=true,decayable=true,variant=aluminium": { "model": "letseat:leaves_aluminium" },
+        "check_decay=true,decayable=false,variant=aluminium": { "model": "letseat:leaves_aluminium" },
+        "check_decay=false,decayable=true,variant=aluminium": { "model": "letseat:leaves_aluminium" },
+        "check_decay=false,decayable=false,variant=aluminium": { "model": "letseat:leaves_aluminium" },
+        
+        "check_decay=true,decayable=true,variant=aluminiumcopper": { "model": "letseat:leaves_aluminiumcopper" },
+        "check_decay=true,decayable=false,variant=aluminiumcopper": { "model": "letseat:leaves_aluminiumcopper" },
+        "check_decay=false,decayable=true,variant=aluminiumcopper": { "model": "letseat:leaves_aluminiumcopper" },
+        "check_decay=false,decayable=false,variant=aluminiumcopper": { "model": "letseat:leaves_aluminiumcopper" }
+    }
+}

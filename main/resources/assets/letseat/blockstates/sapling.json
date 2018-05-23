@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=copper": { "model": "letseat:sapling_copper" },
+        "stage=1,variant=copper": { "model": "letseat:sapling_copper" },
+        
+        "stage=0,variant=aluminium": { "model": "letseat:sapling_aluminium" },
+        "stage=1,variant=aluminium": { "model": "letseat:sapling_aluminium" },
+        
+        "stage=0,variant=aluminiumcopper": { "model": "letseat:sapling_aluminiumcopper" },
+        "stage=1,variant=aluminiumcopper": { "model": "letseat:sapling_aluminiumcopper" }
+    }
+}

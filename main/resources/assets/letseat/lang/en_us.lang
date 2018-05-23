@@ -1,0 +1,45 @@
+// GUI
+itemGroup.letseattab=Let's Eat
+
+
+
+// Copper
+item.ingot_copper.name=Copper Ingot
+item.axe_copper.name=Copper Axe
+item.hoe_copper.name=Copper Hoe
+item.pickaxe_copper.name=Copper Pickaxe
+item.shovel_copper.name=Copper Shovel
+item.sword_copper.name=Copper Sword
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+
+// Ruby
+item.ruby.name=Ruby
+tile.ruby_block.name=Block of Ruby
+item.ruby_sword.name=Ruby Sword
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_axe.name=Ruby Axe
+item.ruby_pickaxe.name=Ruby PickAxe
+item.ruby_shovel.name=Ruby Shovel
+
+// Cucumber
+item.cucumber_pickaxe.name=Cucumber PickAxe
+item.cucumber_helmet.name=Cucumber Helmet
+item.cucumber_chestplate.name=Cucumber Chestplate
+item.cucumber_leggings.name=Cucumber Leggings
+item.cucumber_boots.name=Cucumber Boots
+
+
+// --- MISC --- //
+
+// Items
+item.obsidian_ingot.name=Obsidian Ingot
+
+// Blocks
+tile.green_block.name=Green Block
+
+// Tools
+
+// Armor

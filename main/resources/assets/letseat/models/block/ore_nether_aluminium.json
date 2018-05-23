@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "letseat:blocks/ore_nether_aluminium"
+    }
+}

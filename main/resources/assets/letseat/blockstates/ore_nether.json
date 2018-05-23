@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=aluminium": { "model": "letseat:ore_nether_aluminium" },
+        "variant=copper": { "model": "letseat:ore_nether_copper" }
+    }
+}

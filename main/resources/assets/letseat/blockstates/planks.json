@@ -1,0 +1,7 @@
+{
+    "variants": 
+    {
+        "variant=copper": { "model": "letseat:planks_copper" },
+        "variant=aluminium": { "model": "letseat:planks_aluminium" }
+    }
+}
